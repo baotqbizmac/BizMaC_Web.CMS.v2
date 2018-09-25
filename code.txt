@@ -2,8 +2,4 @@ abcde
 11111
 44444
 
-<<<<<<< HEAD
-cua cua user 1
-=======
 code cua user 2
->>>>>>> b92fd2ae7e919cece5c7449b8eff5c872a06045c
